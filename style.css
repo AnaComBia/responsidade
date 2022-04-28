@@ -1,0 +1,80 @@
+body{
+    background-color: #030221;
+}
+
+@media (max-width: 750px) { 
+
+    body{
+     background-color: #050436;
+    }
+ 
+ }
+
+@media (max-width: 700px) { 
+
+   body{
+    background-color: #050436;
+   }
+
+}
+
+
+@media (max-width: 650px) { 
+
+    body{
+    background-color: #0B095A;
+    }
+
+}
+
+@media (max-width: 600px) { 
+
+    body{
+    background-color: #0B0980;
+    }
+
+}
+
+@media (max-width: 550px) { 
+
+    body{
+    background-color: #0e1b5e;
+    }
+    
+}
+
+@media (max-width: 500px) { 
+
+    body{
+    background-color: #12216B;
+    }
+    
+}
+
+@media (max-width: 400px) { 
+
+    body{
+    background-color: #254c96;
+    }
+}
+
+@media (max-width: 400px) { 
+
+    body{
+    background-color: #3563B8;
+    }
+}
+
+@media (max-width: 300px) { 
+
+    body{
+    background-color: #7BA9D1;
+    }
+}
+
+@media (max-width: 300px) { 
+
+    body{
+    background-color: #7BA9D1;
+    }
+}
